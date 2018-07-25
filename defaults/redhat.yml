@@ -9,4 +9,4 @@ oracle_java_home: "/usr/java/jdk-{{ oracle_java_version }}"
 oracle_java_os_supported: yes
 oracle_java_rpm_validate_certs: yes
 
-oracle_java_download_timeout: 10
+oracle_java_download_timeout: 60
